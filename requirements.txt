@@ -1,4 +1,1 @@
-streamlit
-requests
-pandas
-openpyxl
+pip install streamlit requests pandas openpyxl
