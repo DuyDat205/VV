@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 from order_manager import save_order, load_orders
 
-PRODUCTS_URL = "https://raw.githubusercontent.com/DuyDat205/VV/main/products.json"
+https://raw.githubusercontent.com/DuyDat205/VV/refs/heads/main/products.json
 
 @st.cache_data
 def load_products():
