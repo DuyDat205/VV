@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Tai nghe Bluetooth Sony",
+    "price": 1290000,
+    "image": "https://example.com/image1.jpg",
+    "description": "Chất lượng âm thanh vượt trội, thời lượng pin 24 giờ."
+  },
+  {
+    "id": 2,
+    "name": "Chuột không dây Logitech",
+    "price": 490000,
+    "image": "https://example.com/image2.jpg",
+    "description": "Thiết kế nhỏ gọn, pin dùng 12 tháng."
+  }
+]
