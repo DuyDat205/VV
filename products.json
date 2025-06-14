@@ -1,23 +1,72 @@
 [
   {
     "id": 1,
-    "name": "Tai nghe Bluetooth Sony",
-    "price": 1290000,
-    "image": "https://via.placeholder.com/300x200.png?text=Sony+Bluetooth",
-    "description": "Chất lượng âm thanh vượt trội, pin 24h."
+    "name": "iPhone 15 Pro Max 256GB",
+    "price": 34990000,
+    "image": "https://via.placeholder.com/300x200.png?text=iPhone+15+Pro+Max",
+    "description": "Điện thoại cao cấp của Apple, hiệu năng mạnh mẽ, camera cực nét."
   },
   {
     "id": 2,
-    "name": "Chuột Logitech M331",
-    "price": 550000,
-    "image": "https://via.placeholder.com/300x200.png?text=Logitech+Mouse",
-    "description": "Thiết kế gọn nhẹ, độ chính xác cao."
+    "name": "Samsung Galaxy S24 Ultra 512GB",
+    "price": 32990000,
+    "image": "https://via.placeholder.com/300x200.png?text=Galaxy+S24+Ultra",
+    "description": "Màn hình 120Hz, chụp ảnh chuyên nghiệp, pin cực trâu."
   },
   {
     "id": 3,
-    "name": "Bàn phím cơ Redragon",
-    "price": 950000,
-    "image": "https://via.placeholder.com/300x200.png?text=Redragon+Keyboard",
-    "description": "RGB cực đẹp, gõ siêu sướng."
+    "name": "Laptop Dell XPS 13",
+    "price": 28900000,
+    "image": "https://via.placeholder.com/300x200.png?text=Dell+XPS+13",
+    "description": "Mỏng nhẹ, màn hình 4K cảm ứng, thiết kế cao cấp."
+  },
+  {
+    "id": 4,
+    "name": "MacBook Air M3 2024",
+    "price": 28990000,
+    "image": "https://via.placeholder.com/300x200.png?text=MacBook+Air+M3",
+    "description": "Chip Apple M3, thời lượng pin lên tới 18 giờ."
+  },
+  {
+    "id": 5,
+    "name": "Tai nghe Bluetooth Sony WH-1000XM5",
+    "price": 7990000,
+    "image": "https://via.placeholder.com/300x200.png?text=Sony+WH-1000XM5",
+    "description": "Chống ồn chủ động, pin lên đến 30 giờ, chất âm cực đỉnh."
+  },
+  {
+    "id": 6,
+    "name": "Chuột không dây Logitech MX Master 3",
+    "price": 2490000,
+    "image": "https://via.placeholder.com/300x200.png?text=Logitech+MX+Master+3",
+    "description": "Chuột cao cấp, pin 70 ngày, điều khiển nhiều thiết bị cùng lúc."
+  },
+  {
+    "id": 7,
+    "name": "Bàn phím cơ Keychron K6 RGB",
+    "price": 1990000,
+    "image": "https://via.placeholder.com/300x200.png?text=Keychron+K6",
+    "description": "Kết nối không dây, switch hot-swap, đèn RGB rực rỡ."
+  },
+  {
+    "id": 8,
+    "name": "Loa Bluetooth JBL Charge 5",
+    "price": 3290000,
+    "image": "https://via.placeholder.com/300x200.png?text=JBL+Charge+5",
+    "description": "Âm thanh mạnh mẽ, chống nước IP67, pin 20 giờ."
+  },
+  {
+    "id": 9,
+    "name": "Màn hình LG UltraWide 34 inch",
+    "price": 9990000,
+    "image": "https://via.placeholder.com/300x200.png?text=LG+UltraWide+34",
+    "description": "Tỉ lệ 21:9, độ phân giải 2K, phù hợp đa nhiệm và giải trí."
+  },
+  {
+    "id": 10,
+    "name": "Ổ cứng SSD Samsung 980 PRO 1TB",
+    "price": 3590000,
+    "image": "https://via.placeholder.com/300x200.png?text=Samsung+SSD+980+Pro",
+    "description": "Chuẩn PCIe Gen4, tốc độ đọc lên đến 7000MB/s."
   }
 ]
